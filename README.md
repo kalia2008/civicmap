@@ -13,3 +13,4 @@ The Counter-Militarisation Mapping project is a political statement that challen
 [3:51 PM]
 Artistic Expression:
 The maps created by the Counter-Militarisation Mapping project will be more than just tools for analysis; they will be expressions of the lived experiences of Sudan's civilian-led movements. By collaborating with artists and designers, the project aims to create a visually striking representation of the realities of life in Sudan. Through this artistic expression, the project hopes to inspire empathy and awareness for the humanitarian struggles of Sudan's civilians, amplifying their voices and giving them due recognition.
+![mapproto](https://github.com/kalia2008/civicmap/assets/57135529/c4fe7b14-0179-4beb-aa65-b142b4ebd34e)
